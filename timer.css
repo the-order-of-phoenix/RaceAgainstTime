@@ -1,0 +1,15 @@
+body{
+    height: 80px !important;
+    min-width: 150px;
+    background-color: chartreuse;
+}
+
+.timer{
+    width: 150px;
+    font-family: 'Audiowide', cursive;
+    font-size: 15px;
+}
+
+#main{
+    width: 500px !important;
+}
